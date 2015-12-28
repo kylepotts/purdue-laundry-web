@@ -13,7 +13,7 @@
 
 (def hall-names ["Cary Hall West", "Earhart Hall", "Harrison Hall", "Hawkins Hall", "Hillenbrand Hall", "McCutcheon Hall",
                   "Meredith Northwest", "Meredith Southeast", "Owen Hall", "Shreve Hall", "Tarkington Hall", "Third Street Suites", "Wiley Hall",
-                  "Windsor - Duhme", "Windsor - Warren" "Demo"])
+                  "Windsor - Duhme", "Windsor - Warren"])
 
 
 (defn toggle-drawer []
