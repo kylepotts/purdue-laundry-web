@@ -29,6 +29,7 @@
 
                 :compiler {:main laundry.core
                            :asset-path "js/compiled/out"
+                           :optimizations :advanced
                            :output-to "resources/public/js/compiled/laundry.js"
                            :output-dir "resources/public/js/compiled/out"
                            :source-map-timestamp true}}

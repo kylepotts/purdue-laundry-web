@@ -1,4 +1,4 @@
-(ns laundry.machine-display
+(ns laundry.machines
   (:require [om-tools.core :refer-macros [defcomponent defcomponentk]]
             [om-tools.dom :as dom :include-macros true]
             [om.core :as om :include-macros true]

@@ -6,7 +6,7 @@
             [dommy.core :as dommy :refer-macros [sel sel1]]
             [cljs.core.async :refer [put! chan <!]]
             [laundry.api :refer [get-machines]]
-            [laundry.machine-display :refer [machine-grid]])
+            [laundry.machines :refer [machine-grid]])
   (:require-macros [cljs.core.async.macros :refer [go]]))
 
 
